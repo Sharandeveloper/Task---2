@@ -1,0 +1,23 @@
+1.write blog on the
+difference between
+documents and window
+object:
+document
+window
+It is the object of window
+property.
+It is the object of the
+browser.
+All the tags, elements
+with attributes in HTML
+are part of the
+document.
+Global objects,
+functions, and
+variables of
+JavaScript are
+members of the
+window object.
+2.codkata practice 
+   Code Kata is an attempt to bring this element of practice to software development. A kata is
+an exercise in karate where you repeat a form many, many times, ...
